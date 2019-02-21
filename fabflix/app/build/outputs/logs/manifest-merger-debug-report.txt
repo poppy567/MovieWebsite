@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0c427d04f70d33ddafccaf8861091471/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/2739155ceaa515038b18e9919fb9e2f5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/26317ed2120ff2b195bbe5bfa4294444/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5e170c8ed11017b0244e071f462509e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/941e584ee3a5ab1d1a2bfc70356ae37c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a1624cfa16ed4479824b4a5f486331ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8e0cfcd866533d4fc88077728e9b4375/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/874bb6680ed018324395c5f02747cdff/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/50302b58cdf13e3f982e9d0ad0b5ce56/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8b9e926e684ef11860f844f8418e6f6d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/92ce0c2f989f98a70b35f33cbe32c845/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e1a613f41439d649db43ff4fbe143ce2/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:2:1-43:12
+		INJECTED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:2:1-43:12
+		INJECTED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:8:5-41:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/2739155ceaa515038b18e9919fb9e2f5/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/2739155ceaa515038b18e9919fb9e2f5/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.grp59.cs122b.fabflix.MainActivity
+ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.grp59.cs122b.fabflix.SearchActivity
+ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:22:9-30:20
+	android:parentActivityName
+		ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:24:13-55
+	android:name
+		ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:23:13-43
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:27:13-29:49
+	android:value
+		ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:29:17-46
+	android:name
+		ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:28:17-63
+activity#com.grp59.cs122b.fabflix.ListActivity
+ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:31:9-39:20
+	android:parentActivityName
+		ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:33:13-57
+	android:name
+		ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:32:13-41
+activity#com.grp59.cs122b.fabflix.SingleMovieActivity
+ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:40:9-66
+	android:name
+		ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml:40:19-54
+uses-sdk
+INJECTED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0c427d04f70d33ddafccaf8861091471/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0c427d04f70d33ddafccaf8861091471/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/2739155ceaa515038b18e9919fb9e2f5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/2739155ceaa515038b18e9919fb9e2f5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/26317ed2120ff2b195bbe5bfa4294444/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/26317ed2120ff2b195bbe5bfa4294444/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5e170c8ed11017b0244e071f462509e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5e170c8ed11017b0244e071f462509e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/941e584ee3a5ab1d1a2bfc70356ae37c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/941e584ee3a5ab1d1a2bfc70356ae37c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a1624cfa16ed4479824b4a5f486331ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a1624cfa16ed4479824b4a5f486331ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8e0cfcd866533d4fc88077728e9b4375/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8e0cfcd866533d4fc88077728e9b4375/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/874bb6680ed018324395c5f02747cdff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/874bb6680ed018324395c5f02747cdff/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/50302b58cdf13e3f982e9d0ad0b5ce56/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/50302b58cdf13e3f982e9d0ad0b5ce56/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8b9e926e684ef11860f844f8418e6f6d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8b9e926e684ef11860f844f8418e6f6d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/92ce0c2f989f98a70b35f33cbe32c845/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/92ce0c2f989f98a70b35f33cbe32c845/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e1a613f41439d649db43ff4fbe143ce2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/chenpeiyuan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e1a613f41439d649db43ff4fbe143ce2/AndroidManifest.xml:20:5-44
+INJECTED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenpeiyuan/Documents/GitHub/cs122b-spring18-team-59/fabflix/app/src/main/AndroidManifest.xml

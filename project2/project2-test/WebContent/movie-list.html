@@ -1,0 +1,91 @@
+<!-- This page will be seen if you logged in -->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Movie list</title>
+    <link href="pic/style.css" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" href="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/css/bootstrap.min.css">
+     <!-- Load jQuery and Bootstrap JS -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+<!-- Load our own JS file -->
+<!-- The path is relative to index.html, since these two files are in the same directory -->
+<!-- Note the url does not contain a "/" in the beginning, which means the url is relative to current path
+     otherwise the url is relative to the root path--> 
+    <script src="movielist.js"></script>
+</head>
+<body>
+    <div>
+    <form id='main_search' method='get' action='#'>
+        <ul class="naviul">
+        <li class="navili"><a href="index.html">Fablix</a></li><!--href后放html文件-->
+        <li class="naviliright"><a href=shop-cart.html>Check Out</a></li><!--href后放html文件-->
+        
+        <li class="naviliright"><a href="advancedsearch.html">Advanced Search</a></li><!--href后放html文件-->
+        <li class="bar naviliright">
+        <input type="text" placeholder="movie title" name="title"/>  <!--这里需要传title参数-->
+            <button type="submit" /></button></li>
+        </ul> 
+    </form>
+    </div>
+    <div id="movielist">
+        <h1>Search Result:</h1>
+        <hr>
+        Sort by: Rating
+        <input type="button"  value="ascend" onclick="handlesort('rating', 'ascend')">
+        <input type="button"  value="descend" onclick="handlesort('rating', 'descend')">
+        
+        
+        Sort by: Title
+        <input type="button"  value="ascend" onclick="handlesort('title', 'ascend')">
+        <input type="button"  value="descend" onclick="handlesort('title', 'descend')">
+        <p>
+        <div class="btn-group">
+            <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Item Number 
+            <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu" role="menu">
+                <li><a onclick="handlerange('30')" >30</a></li>
+                <li><a onclick="handlerange('20')">20</a></li>
+                <li><a onclick="handlerange('10')">10</a></li>
+            </ul>
+        </div>
+        </p>
+        <table id=movie_table class="table table-striped">
+        <!-- Table body is left empty here, will be populated with the data retrieved with index.js -->
+        <!-- Again, id "star_table_body" is useful for jQuery to find this html element -->
+        <thead>
+   		 <tr>
+        	<!-- Titles of each column-->
+        	<th>ID</th>
+        	<th>Title</th>
+        	<th>Year</th>
+        	<th>Director</th>
+        	<th>Genre</th>
+        	<th>Stars</th>
+        	<th>Rating</th>
+    	</tr>
+   	 	</thead>
+            <tbody id=movie_table_body>
+                
+            </tbody>
+        </table>
+        <p>
+        <footer id=movie_list_footer>
+            <ul class="pager">
+                <li><a onclick="handlepage(true)">Previous</a></li>
+                <li id=pagenumber></li>
+                <li><a onclick="handlepage(false)">Next</a></li>
+            </ul>
+        </p>
+        </footer>
+    </div>
+   
+
+
+
+</body>
+</html>

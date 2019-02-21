@@ -1,0 +1,41 @@
+body 
+{
+ background-color:#fcf9b8;
+}
+table 
+{
+ width:100%;
+ border-collapse: collapse;
+}
+h1   
+{
+ text-align: center;
+ font sans-serif;
+ font-size:40pt;
+ color:#8ba574;
+}
+tr   
+{
+ color:#000000;
+}
+t  
+{
+ margin-left:50px;
+}
+th
+{
+ font-size:1.1em;
+ text-align:left;
+ padding-top:5px;
+ padding-bottom:4px;
+ background-color:#8ba574;
+ border:1px solid #8ba574;
+ color:#ffffff;
+}
+td
+{
+ font-size:1em;
+ border:1px solid #8ba574;
+ padding:3px 7px 2px 7px;
+ color:#8ba574;
+}

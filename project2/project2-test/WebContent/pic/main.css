@@ -1,0 +1,93 @@
+@charset "UTF-8";
+
+.naviul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0 80px 0 80px;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.navili {
+    float: left;
+    width: 100px;
+}
+.naviliright {
+    float: right;
+    width:200px;
+}
+
+.naviliright a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.naviliright a:hover {
+    background-color: #111;
+}
+
+.navili a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navili a:hover {
+    background-color: #111;
+}
+
+h1{
+    padding:50px 0 0 0;
+
+}
+h1,h3{
+text-align: center;
+}
+
+.bar{
+    padding:50px 0 0 100px;
+    width:315px;
+
+    margin:0 auto;
+}
+
+.bar input {
+    border:2px solid #c5464a;
+    border-radius:5px;
+    background:transparent;
+    width:200px;
+    height:40px;
+    font-size:20px;
+    top:0;
+    right:0;
+}
+input::-webkit-input-placeholder {
+    padding: 10px;
+    }
+.bar button {
+    background:#c5464a;
+    border-radius:5px 5px 5px 5px;
+    width:100px;
+    height:46px;
+    top:0;
+    right:0;
+}
+.bar button:before {
+    content:"search";
+    font-size:20px;
+    color:#F9F0DA;
+}
+
+.genrelist{
+    float:left;
+    padding:0 200px 0 200px;
+}
+.titilelist{
+    float:right;
+}
+
